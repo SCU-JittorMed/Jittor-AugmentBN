@@ -28,7 +28,7 @@ python train_CIFAR_NABN.py
   title={Regularizing deep neural networks for medical image analysis with augmented batch normalization},
   author={Zhu, Shengqian and Yu, Chengrong and Hu, Junjie},
   journal={Applied Soft Computing},
-  publisher={Elsevier}
+  year={2024},
 }
 ```
 
